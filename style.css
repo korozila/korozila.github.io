@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://img.freepik.com/free-photo/gray-wall-textures-background_74190-4389.jpg?w=2000) no-repeat;
+    background-size: cover;
+  }
+  .box{
+    width: 600px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 80px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+  }
+
+  .box-img{
+  border-radius: 50%;
+  width: 450px;
+  height: 450px;
+}
+.box h1{
+    font-size: 40px;
+    letter-spacing: 5px;
+    font-weight: 100;
+  }
