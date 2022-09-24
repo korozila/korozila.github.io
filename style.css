@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(https://img.freepik.com/free-photo/gray-wall-textures-background_74190-4389.jpg?w=2000) no-repeat;
+    background: url(https://rare-gallery.com/mocahbig/469856-winter-forest-nature-sunset-snow-cold-landscape.jpg) no-repeat;
     background-size: cover;
   }
   .box{
@@ -16,7 +16,7 @@ body{
   }
 
   .box-img{
-  border-radius: 50%;
+  border-radius: 55%;
   width: 450px;
   height: 450px;
 }
