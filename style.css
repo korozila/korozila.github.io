@@ -1,18 +1,19 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(https://wallpapercave.com/wp/wp7495520.jpg) no-repeat;
+    background: url(https://c4.wallpaperflare.com/wallpaper/569/127/686/gray-texture-wallpaper-preview.jpg) no-repeat;
     background-size: cover;
   }
   .box{
     width: 600px;
     background: rgba(0, 0, 0, 0.4);
-    padding: 80px;
+    padding: 90px;
     text-align: center;
     margin: auto;
-    margin-top: 5%;
-    color: white;
+    margin-top: 3%;
+    color: rgb(243, 234, 234);
     font-family: 'Century Gothic',sans-serif;
+    font-size: 25px;
   }
 
   .box-img{
@@ -22,6 +23,12 @@ body{
 }
 .box h1{
     font-size: 40px;
-    letter-spacing: 5px;
+    letter-spacing: 1px;
     font-weight: 100;
   }
+
+  h5 {
+    font-size: 30px;
+    color: rgb(235, 231, 231);
+  }
+
